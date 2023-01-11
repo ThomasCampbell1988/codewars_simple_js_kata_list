@@ -10,6 +10,8 @@ List of simple codewars.com katas for learning coding fundamentals
 
 [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript)
 
+[Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
+
 [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/javascript)
 
 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript)
@@ -22,9 +24,13 @@ List of simple codewars.com katas for learning coding fundamentals
 
 [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/train/javascript)
 
+[Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/train/javascript)
+
 [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript)
 
 [Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript)
+
+[Grader](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c/train/javascript)
 
 [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript)
 
@@ -38,7 +44,7 @@ List of simple codewars.com katas for learning coding fundamentals
 
 [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript)
 
-## Loops
+[Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)
 
 
 ## Strings
@@ -63,21 +69,35 @@ List of simple codewars.com katas for learning coding fundamentals
 
 [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)
 
-## Arrays
+## Loops
 
-[Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
+These problems can be solved using loops.
+
+Many of them involving arrrays could also be solved in other ways, but there is a general lack of simple loop specific problems, so going to include some of them here.
+
+[Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/javascript)
+
+[Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
+
+[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript)
 
 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 
-[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
-
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
+
+[Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
+
+## Arrays
+
+[A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
+
+[Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
+
+[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
 
 [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)
 
 [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
-
-[Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
 
 [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009/train/javascript)
 
