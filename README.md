@@ -1,8 +1,12 @@
 # codewars.com simple kata list
 
-List of simple codewars.com katas for learning coding fundamentals
+List of simple codewars.com katas (8kyu) for learning coding fundamentals.
 
-## Numbers
+The links will take you to the JavaScript version of the kata.
+
+I've tried to only include katas where the premise is clear, and the solution can be implemented in a few lines of code.
+
+## Numbers (MDN - Number)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number]
 
 [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript)
 
@@ -16,9 +20,7 @@ List of simple codewars.com katas for learning coding fundamentals
 
 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript)
 
-[Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)
-
-## Conditionals
+## Conditionals (MDN - Conditional Statements)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#conditional_statements]
 
 [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/javascript)
 
@@ -47,13 +49,11 @@ List of simple codewars.com katas for learning coding fundamentals
 [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)
 
 
-## Strings
+## Strings [MDN - String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript)
 
 [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
-
-[Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
 
 [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)
 
@@ -67,15 +67,13 @@ List of simple codewars.com katas for learning coding fundamentals
 
 [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)
 
-[Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)
+[Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
 
-## Loops
+## Loops [MDN - Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 These problems can be solved using loops.
 
 Many of them involving arrrays could also be solved in other ways, but there is a general lack of simple loop specific problems, so going to include some of them here.
-
-[Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/javascript)
 
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
 
@@ -89,9 +87,13 @@ Many of them involving arrrays could also be solved in other ways, but there is 
 
 [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
 
-## Arrays
+[Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/javascript)
+
+## Arrays [MDN - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
+
+[Return Two Highest Values in List](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/train/javascript)
 
 [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
 
@@ -101,8 +103,10 @@ Many of them involving arrrays could also be solved in other ways, but there is 
 
 [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009/train/javascript)
 
-[Return Two Highest Values in List](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/train/javascript)
+## Combining the above
 
-## Combination
+Coding is all about breaking big problems down into smaller problems, solving those problems, and combining the results into working software.
+
+Once you are comfortable using all the coding fundementals above, it can be fun to tackle some problems which require you to break a slightly bigger task down into smaller parts which use different fundementals.
 
 [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/train/javascript)
