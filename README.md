@@ -83,6 +83,8 @@ Many of them involving arrrays could also be solved in other ways, but there is 
 
 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 
+[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
+
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
 
 [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
@@ -92,8 +94,6 @@ Many of them involving arrrays could also be solved in other ways, but there is 
 [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
 
 [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
-
-[Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
 
 [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)
 
