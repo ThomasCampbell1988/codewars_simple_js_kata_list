@@ -6,7 +6,7 @@ The links will take you to the JavaScript version of the kata.
 
 I've tried to only include katas where the premise is clear, and the solution can be implemented in a few lines of code.
 
-## Numbers (MDN - Number)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number]
+## Numbers [MDN - Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
 
 [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript)
 
@@ -20,7 +20,7 @@ I've tried to only include katas where the premise is clear, and the solution ca
 
 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript)
 
-## Conditionals (MDN - Conditional Statements)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#conditional_statements]
+## Conditionals [MDN - Conditional Statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#conditional_statements)
 
 [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/javascript)
 
