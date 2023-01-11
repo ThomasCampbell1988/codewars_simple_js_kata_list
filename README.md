@@ -8,6 +8,7 @@ I've tried to only include katas where the premise is clear, and the solution ca
 
 ## Numbers
 
+[W3Schools - JS Numbers](https://www.w3schools.com/js/js_numbers.asp)
 [MDN - Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
 
 - [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript)
