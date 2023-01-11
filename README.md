@@ -65,7 +65,7 @@ List of simple codewars.com katas for learning coding fundamentals
 
 ## Arrays
 
-[Invert values](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)
+[Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
 
 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 
